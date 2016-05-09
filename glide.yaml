@@ -1,0 +1,5 @@
+package: github.com/kevbradwick/chapi
+import:
+- package: github.com/stretchr/testify
+  subpackages:
+  - assert
